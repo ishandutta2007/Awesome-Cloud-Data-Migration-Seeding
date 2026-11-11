@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Migration-Seeding/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Data-Migration-Seeding?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Migration-Seeding/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Data-Migration-Seeding?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Migration-Seeding/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Data-Migration-Seeding?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Migration-Seeding/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Migration-Seeding/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -71,9 +71,9 @@ The sector features a **hybrid market structure**: it is **heavily concentrated 
 
 ## ⚡ Open-Source GitHub Projects
 
-The table below lists top open-source projects for database schema migrations, cross-cloud bulk data syncing, change data capture (CDC), and synthetic data seeding—sorted strictly in **descending order by GitHub star count**.
+The table below lists top open-source projects for database schema migrations, cross-cloud bulk data syncing, change data capture (CDC), and synthetic data seeding—sorted strictly in **descending order by GitHub Stars_Count**.
 
-| Project | Star Badge | Category | Description |
+| Project | Stars_Badge | Category | Description |
 |:---|:---:|:---:|:---|
 | **[rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | Multi-Cloud Storage Sync | The "Swiss Army knife" of cloud storage data migration. Syncs files, directories, and object stores across 70+ cloud storage providers including AWS S3, Google Cloud Storage, Azure Blob, and SFTP with checksum verification and multi-threaded transfers. |
 | **[Airbyte](https://github.com/airbytehq/airbyte)** | [![Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers) | ELT Data Integration & Sync | Leading open-source data integration platform with 350+ pre-built connectors. Migrates data from databases (PostgreSQL, MySQL, Oracle), SaaS APIs, and files into cloud data lakes and warehouses with continuous replication. |
@@ -114,7 +114,7 @@ Contributions from data architects, cloud practitioners, and open-source creator
 2. 🌿 Create a descriptive feature branch (`git checkout -b feature/add-new-tool`).
 3. 📝 Add your tool to the corresponding section with:
    - Tool name & official hyperlink
-   - Social star badge (`https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white`) linking to its stargazers page
+   - Social Stars_Badge (`https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white`) linking to its stargazers page
    - Factual 1–2 sentence technical description
    - Clear pricing and free tier/trial limit specifications
 4. 🚀 Open a **Pull Request** explaining why the tool provides value to the cloud data migration ecosystem.
