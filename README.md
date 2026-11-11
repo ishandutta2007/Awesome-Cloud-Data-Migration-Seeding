@@ -1,6 +1,6 @@
 # Awesome-Cloud-Data-Migration-Seeding
 
-# Top Cloud Data Migration & Seeding Ecosystem
+## Top Cloud Data Migration & Seeding Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Workload Migration, Database Seeding & Large-Scale Data Transfer*  
